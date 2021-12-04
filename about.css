@@ -415,7 +415,7 @@ hr {
   color: #6b6b6b;
 }
 .carousel-control.right {
-right: 6rem;
+  right: 6rem;
   background-image: none;
 }
 .carousel-control.left {
